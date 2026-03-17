@@ -2,6 +2,7 @@
 ![.NET](https://img.shields.io/badge/.NET-10-512BD4)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6)
 ![Estado](https://img.shields.io/badge/Estado-Base%20generada-2E7D32)
+![Version](https://img.shields.io/badge/Version-Alpha%201.0.0-91205C)
 
 # Monitoreo Windows - Audit Internal Solution
 
