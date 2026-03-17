@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Audit.Backend.Application\Audit.Backend.Application.csproj" />
+    <ProjectReference Include="..\Audit.Backend.Contracts\Audit.Backend.Contracts.csproj" />
+    <ProjectReference Include="..\Audit.Backend.Domain\Audit.Backend.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+  Uri="https://audit.example.local/agent/Audit.Agent.appinstaller"
+  Version="1.0.0.0"
+  xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainPackage
+    Name="Audit.Agent"
+    Publisher="CN=Audit"
+    Version="1.0.0.0"
+    Uri="https://audit.example.local/agent/Audit.Agent.msix" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="4" />
+  </UpdateSettings>
+</AppInstaller>

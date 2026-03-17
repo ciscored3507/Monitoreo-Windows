@@ -1,0 +1,15 @@
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\bin\Release\net10.0\Audit.Agent.Bootstrapper.exe
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\bin\Release\net10.0\Audit.Agent.Bootstrapper.deps.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\bin\Release\net10.0\Audit.Agent.Bootstrapper.runtimeconfig.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\bin\Release\net10.0\Audit.Agent.Bootstrapper.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\bin\Release\net10.0\Audit.Agent.Bootstrapper.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.AssemblyInfoInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.AssemblyInfo.cs
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.sourcelink.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\refint\Audit.Agent.Bootstrapper.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\Audit.Agent.Bootstrapper.genruntimeconfig.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Bootstrapper\obj\Release\net10.0\ref\Audit.Agent.Bootstrapper.dll

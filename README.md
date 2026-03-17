@@ -1,44 +1,46 @@
 ![C#](https://img.shields.io/badge/C%23-CSharp-8D2091)
 ![.NET](https://img.shields.io/badge/.NET-10-512BD4)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6)
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-FFB300)
+![Estado](https://img.shields.io/badge/Estado-Base%20generada-2E7D32)
 
-# Agente de monitoreo Windows
-Desarrollo de solución integral para la auditoría interna basada en un sistema de **grabación y monitoreo** utilizando tecnologías modernas y robustas. La solución consta de dos partes principales: una aplicación de escritorio para **Windows 10 o superior** que realizará las grabaciones **(Agente)** y una plataforma web para visualizar y gestionar estos datos **(Web)**.
-# Descripción
-## Aplicación de escritorio
-- **Núcleo del agente:** Servicio de Windows para captura, cola de envío, reintentos y resiliencia.
-- **Interfaz local:** Aplicación ligera con icono en bandeja del sistema para estado y ajustes administrativos.
-- **Persistencia local:** Almacenamiento de configuración y estado local.
-- **Comunicación remota:** Integración con backend web por HTTPS y SignalR para telemetría, estado y comandos.
-## Web
-- **Backend:** Desarrollada con ASP.NET Core.
-- **WebSockets:** Utilizando SignalR para la comunicación en tiempo real.
-- **Base de Datos:** Entity Framework Core.
-- **Frontend:** Desarrollado utilizando React.
-# Instalación
+# Monitoreo Windows - Audit Internal Solution
 
-# Despliegue
+Monorepo base para una solucion de auditoria interna con:
 
-# Guía de uso
+- `agent/`: agente Windows (service, desktop, contratos, transporte, storage).
+- `web/`: backend API REST + gRPC, worker, portal y CLI.
+- `docs/`: especificacion, ADRs, OpenAPI, proto y runbooks.
+- `.github/workflows`: pipelines iniciales de CI/CD.
 
-# Demo
+La especificacion tecnica de referencia se encuentra en `moniwin.md`.
 
-# Licencia
+## Estructura principal
 
-# Contribuciones
+- `agent/Audit.Agent.slnx`
+- `web/Audit.Web.slnx`
+- `docs/api/openapi.yaml`
+- `docs/api/ingest.proto`
 
-> [!Note]
-> Ejemplo 1
+## Build y pruebas
 
-> [!TIP]
-> Ejemplo 1
+```powershell
+# Agent
+cd agent
+dotnet restore
+dotnet test
 
-> [!IMPORTANT]
-> Ejemplo 1
+# Web
+cd ../web
+dotnet restore
+dotnet test
+dotnet run --project src/Audit.Backend.Api/Audit.Backend.Api.csproj
+```
 
-> [!CAUTION]
-> Ejemplo 1
+## Estado actual
 
+Esta iteracion deja listo:
 
-
+1. Estructura de monorepo completa.
+2. Contratos base de agente y backend.
+3. Endpoints REST iniciales y servicio gRPC de ingesta con idempotencia en memoria.
+4. Scripts operativos y estructura de infraestructura para despliegue en Windows Server.

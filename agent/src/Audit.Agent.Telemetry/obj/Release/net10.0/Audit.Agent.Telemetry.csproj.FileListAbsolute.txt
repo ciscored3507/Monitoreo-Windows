@@ -1,0 +1,12 @@
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\bin\Release\net10.0\Audit.Agent.Telemetry.deps.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\bin\Release\net10.0\Audit.Agent.Telemetry.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\bin\Release\net10.0\Audit.Agent.Telemetry.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.AssemblyInfoInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.AssemblyInfo.cs
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.csproj.CoreCompileInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.sourcelink.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\refint\Audit.Agent.Telemetry.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\Audit.Agent.Telemetry.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Telemetry\obj\Release\net10.0\ref\Audit.Agent.Telemetry.dll

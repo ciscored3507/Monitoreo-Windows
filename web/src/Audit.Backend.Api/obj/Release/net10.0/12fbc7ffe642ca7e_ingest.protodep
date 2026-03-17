@@ -1,0 +1,2 @@
+obj\Release\net10.0\Protos/Ingest.cs \
+obj\Release\net10.0\Protos/IngestGrpc.cs: Protos/ingest.proto

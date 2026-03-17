@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Audit.Agent.Audio/Audit.Agent.Audio.csproj" />
+    <Project Path="src/Audit.Agent.Bootstrapper/Audit.Agent.Bootstrapper.csproj" />
+    <Project Path="src/Audit.Agent.Capture/Audit.Agent.Capture.csproj" />
+    <Project Path="src/Audit.Agent.Common/Audit.Agent.Common.csproj" />
+    <Project Path="src/Audit.Agent.Contracts/Audit.Agent.Contracts.csproj" />
+    <Project Path="src/Audit.Agent.Desktop/Audit.Agent.Desktop.csproj" />
+    <Project Path="src/Audit.Agent.Encoding/Audit.Agent.Encoding.csproj" />
+    <Project Path="src/Audit.Agent.Security/Audit.Agent.Security.csproj" />
+    <Project Path="src/Audit.Agent.Service/Audit.Agent.Service.csproj" />
+    <Project Path="src/Audit.Agent.Storage/Audit.Agent.Storage.csproj" />
+    <Project Path="src/Audit.Agent.Telemetry/Audit.Agent.Telemetry.csproj" />
+    <Project Path="src/Audit.Agent.Transport/Audit.Agent.Transport.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Audit.Agent.IntegrationTests/Audit.Agent.IntegrationTests.csproj" />
+    <Project Path="tests/Audit.Agent.UnitTests/Audit.Agent.UnitTests.csproj" />
+  </Folder>
+</Solution>

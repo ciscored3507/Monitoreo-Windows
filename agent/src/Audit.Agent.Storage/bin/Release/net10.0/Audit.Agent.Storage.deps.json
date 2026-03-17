@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Audit.Agent.Storage/1.0.0": {
+        "dependencies": {
+          "Audit.Agent.Contracts": "1.0.0",
+          "Audit.Agent.Security": "1.0.0"
+        },
+        "runtime": {
+          "Audit.Agent.Storage.dll": {}
+        }
+      },
+      "Audit.Agent.Contracts/1.0.0": {
+        "runtime": {
+          "Audit.Agent.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Audit.Agent.Security/1.0.0": {
+        "runtime": {
+          "Audit.Agent.Security.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Audit.Agent.Storage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Audit.Agent.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Audit.Agent.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

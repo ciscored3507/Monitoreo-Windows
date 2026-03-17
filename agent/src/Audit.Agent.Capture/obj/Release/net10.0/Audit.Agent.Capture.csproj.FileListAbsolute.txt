@@ -1,0 +1,12 @@
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\bin\Release\net10.0\Audit.Agent.Capture.deps.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\bin\Release\net10.0\Audit.Agent.Capture.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\bin\Release\net10.0\Audit.Agent.Capture.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.AssemblyInfoInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.AssemblyInfo.cs
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.csproj.CoreCompileInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.sourcelink.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\refint\Audit.Agent.Capture.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\Audit.Agent.Capture.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Capture\obj\Release\net10.0\ref\Audit.Agent.Capture.dll

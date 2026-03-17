@@ -1,0 +1,12 @@
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\bin\Release\net10.0\Audit.Agent.Encoding.deps.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\bin\Release\net10.0\Audit.Agent.Encoding.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\bin\Release\net10.0\Audit.Agent.Encoding.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.AssemblyInfoInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.AssemblyInfo.cs
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.csproj.CoreCompileInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.sourcelink.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\refint\Audit.Agent.Encoding.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\Audit.Agent.Encoding.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Encoding\obj\Release\net10.0\ref\Audit.Agent.Encoding.dll

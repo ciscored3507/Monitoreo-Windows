@@ -1,0 +1,16 @@
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Transport.deps.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Transport.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Transport.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Contracts.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Contracts.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.csproj.AssemblyReference.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.AssemblyInfoInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.AssemblyInfo.cs
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.csproj.CoreCompileInputs.cache
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.sourcelink.json
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Ag.8D219875.Up2Date
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\refint\Audit.Agent.Transport.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\ref\Audit.Agent.Transport.dll

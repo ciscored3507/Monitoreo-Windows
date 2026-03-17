@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Audit.Admin.Cli/1.0.0": {
+        "dependencies": {
+          "Audit.Backend.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Audit.Admin.Cli.dll": {}
+        }
+      },
+      "Audit.Backend.Contracts/1.0.0": {
+        "runtime": {
+          "Audit.Backend.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Audit.Admin.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Audit.Backend.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

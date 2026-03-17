@@ -1,0 +1,14 @@
+name: agent-release-msix
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-msix:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+      - run: dotnet build agent/packaging/msix/Audit.Agent.Package/Audit.Agent.Package.wapproj -c Release

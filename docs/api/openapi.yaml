@@ -1,0 +1,72 @@
+openapi: 3.1.0
+info:
+  title: Audit Backend API
+  version: "1.0.0"
+servers:
+  - url: https://audit.example.local
+
+components:
+  securitySchemes:
+    MutualTLS:
+      type: mutualTLS
+    OIDC:
+      type: openIdConnect
+      openIdConnectUrl: https://idp.example.local/.well-known/openid-configuration
+  schemas:
+    ProblemDetails:
+      type: object
+      properties:
+        type: { type: string }
+        title: { type: string }
+        status: { type: integer }
+        detail: { type: string }
+        instance: { type: string }
+        error_code: { type: string }
+        correlation_id: { type: string }
+    EnrollRequest:
+      type: object
+      required: [hostname, os_version, device_fingerprint]
+      properties:
+        hostname: { type: string }
+        os_version: { type: string }
+        device_fingerprint: { type: string }
+        csr_pem: { type: string, nullable: true }
+    EnrollResponse:
+      type: object
+      required: [tenant_id, device_id, policy_id]
+      properties:
+        tenant_id: { type: string, format: uuid }
+        device_id: { type: string, format: uuid }
+        policy_id: { type: string, format: uuid }
+        device_cert_pem: { type: string, nullable: true }
+
+paths:
+  /api/v1/agent/enroll:
+    post:
+      summary: Enrolamiento inicial de dispositivo
+      security: [{ MutualTLS: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/EnrollRequest" }
+      responses:
+        "201":
+          description: Enrolled
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/EnrollResponse" }
+  /api/v1/agent/policy:
+    get:
+      summary: Get policy for current device
+      security: [{ MutualTLS: [] }]
+      responses:
+        "200":
+          description: Policy
+  /api/v1/agent/heartbeat:
+    post:
+      summary: Agent heartbeat
+      security: [{ MutualTLS: [] }]
+      responses:
+        "200":
+          description: OK

@@ -1,0 +1,21 @@
+name: agent-ci
+
+on:
+  push:
+    paths:
+      - "agent/**"
+      - ".github/workflows/agent-ci.yml"
+  pull_request:
+    paths:
+      - "agent/**"
+
+jobs:
+  build-test:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+      - run: dotnet restore agent/Audit.Agent.slnx
+      - run: dotnet test agent/Audit.Agent.slnx --configuration Release
