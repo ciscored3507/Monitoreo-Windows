@@ -748,6 +748,10 @@
             "Microsoft.Extensions.Hosting.WindowsServices": {
               "target": "Package",
               "version": "[10.0.4, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[10.0.4, )"
             }
           },
           "imports": [
@@ -1096,6 +1100,12 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -1759,6 +1769,9 @@
             "projectReferences": {
               "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\agent\\src\\Audit.Agent.Contracts\\Audit.Agent.Contracts.csproj": {
                 "projectPath": "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\agent\\src\\Audit.Agent.Contracts\\Audit.Agent.Contracts.csproj"
+              },
+              "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\agent\\src\\Audit.Agent.Storage\\Audit.Agent.Storage.csproj": {
+                "projectPath": "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\agent\\src\\Audit.Agent.Storage\\Audit.Agent.Storage.csproj"
               }
             }
           }
@@ -1778,6 +1791,21 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.33.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.76.0, )"
+            },
+            "Grpc.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.76.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
