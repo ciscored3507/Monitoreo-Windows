@@ -1,0 +1,16 @@
+name: web-deploy-windowsserver
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+      - run: dotnet publish web/src/Audit.Backend.Api/Audit.Backend.Api.csproj -c Release -o web/out/api
+      - run: dotnet publish web/src/Audit.Backend.Worker/Audit.Backend.Worker.csproj -c Release -o web/out/worker
+      - run: dotnet publish web/src/Audit.Web.Portal/Audit.Web.Portal.csproj -c Release -o web/out/portal

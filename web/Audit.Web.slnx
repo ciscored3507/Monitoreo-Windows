@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Audit.Admin.Cli/Audit.Admin.Cli.csproj" />
+    <Project Path="src/Audit.Backend.Api/Audit.Backend.Api.csproj" />
+    <Project Path="src/Audit.Backend.Application/Audit.Backend.Application.csproj" />
+    <Project Path="src/Audit.Backend.Contracts/Audit.Backend.Contracts.csproj" />
+    <Project Path="src/Audit.Backend.Domain/Audit.Backend.Domain.csproj" />
+    <Project Path="src/Audit.Backend.Infrastructure/Audit.Backend.Infrastructure.csproj" />
+    <Project Path="src/Audit.Backend.Worker/Audit.Backend.Worker.csproj" />
+    <Project Path="src/Audit.Web.Portal/Audit.Web.Portal.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Audit.Backend.IntegrationTests/Audit.Backend.IntegrationTests.csproj" />
+    <Project Path="tests/Audit.Backend.UnitTests/Audit.Backend.UnitTests.csproj" />
+    <Project Path="tests/Audit.Web.E2E/Audit.Web.E2E.csproj" />
+  </Folder>
+</Solution>

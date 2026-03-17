@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package audit.ingest.v1;
+
+message ChunkMeta {
+  string tenant_id = 1;
+  string device_id = 2;
+  string session_id = 3;
+  int32 segment_index = 4;
+  string chunk_id = 5;
+  string sha256_hex = 6;
+  int64 bytes = 7;
+  int64 capture_start_unix_ms = 8;
+  int64 capture_end_unix_ms = 9;
+  string content_type = 10;
+  map<string, string> tags = 11;
+}
+
+message UploadChunkRequest {
+  ChunkMeta meta = 1;
+  bytes data = 2;
+}
+
+message UploadChunkResponse {
+  string chunk_id = 1;
+  bool stored = 2;
+  string object_key = 3;
+}
+
+service IngestService {
+  rpc UploadChunks(stream UploadChunkRequest) returns (stream UploadChunkResponse);
+}
