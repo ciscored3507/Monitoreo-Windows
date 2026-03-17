@@ -1,7 +1,18 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <ProjectReference Include="..\Audit.Agent.Contracts\Audit.Agent.Contracts.csproj" />
+    <ProjectReference Include="..\Audit.Agent.Storage\Audit.Agent.Storage.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.Net.Client" Version="2.76.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.76.0" PrivateAssets="All" />
+    <PackageReference Include="Google.Protobuf" Version="3.33.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="..\Audit.Agent.Contracts\ingest.proto" GrpcServices="Client" Link="Protos\ingest.proto" />
   </ItemGroup>
 
   <PropertyGroup>

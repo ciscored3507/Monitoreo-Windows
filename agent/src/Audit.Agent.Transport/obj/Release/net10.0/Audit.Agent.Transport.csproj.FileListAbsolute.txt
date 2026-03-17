@@ -14,3 +14,8 @@ C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\age
 C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\refint\Audit.Agent.Transport.dll
 C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\Audit.Agent.Transport.pdb
 C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\obj\Release\net10.0\ref\Audit.Agent.Transport.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\sqlite-schema.sql
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Security.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Storage.dll
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Storage.pdb
+C:\Users\cisco\OneDrive\Documentos\dev\EAD-software\Record\Monitoreo-Windows\agent\src\Audit.Agent.Transport\bin\Release\net10.0\Audit.Agent.Security.pdb

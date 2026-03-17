@@ -37,6 +37,26 @@ public sealed record HeartbeatRequest(
     DateTimeOffset? LastUploadUtc,
     IReadOnlyList<string> HealthFlags);
 
-public sealed record HeartbeatResponse(DateTimeOffset ServerTimeUtc);
+public sealed record CertificateRotationInstructionDto(
+    string NewThumbprintSha256,
+    int GraceSeconds);
+
+public sealed record HeartbeatResponse(
+    DateTimeOffset ServerTimeUtc,
+    CertificateRotationInstructionDto? CertificateRotation);
 
 public sealed record DeviceSummary(Guid DeviceId, string Hostname, string Status, DateTimeOffset? LastSeenUtc);
+
+public sealed record BindCertificateRequest(string ThumbprintSha256);
+public sealed record RevokeCertificateRequest(string ThumbprintSha256, string? Reason);
+public sealed record DeviceCertificateDto(
+    Guid DeviceId,
+    string ThumbprintSha256,
+    bool Revoked,
+    DateTimeOffset BoundAtUtc,
+    DateTimeOffset? RevokedAtUtc,
+    string? RevocationReason);
+
+public sealed record StartRotationRequest(string NewThumbprintSha256, int GraceSeconds);
+public sealed record StartRotationResponse(Guid DeviceId, string OldThumbprintSha256, string NewThumbprintSha256, DateTimeOffset RevokeAfterUtc);
+public sealed record ConfirmRotationRequest(string OldThumbprintSha256, string NewThumbprintSha256);

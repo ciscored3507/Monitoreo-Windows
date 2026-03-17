@@ -1,0 +1,2 @@
+obj\Release\net10.0/Ingest.cs \
+obj\Release\net10.0/IngestGrpc.cs: ../Audit.Agent.Contracts/ingest.proto

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YqKP9a39ZRM=",
+  "dgSpecHash": "oPWVKztA4mk=",
   "success": true,
   "projectFilePath": "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\web\\src\\Audit.Backend.Worker\\Audit.Backend.Worker.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.data.sqlite\\9.0.9\\microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.4\\microsoft.extensions.configuration.10.0.4.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.4\\microsoft.extensions.configuration.abstractions.10.0.4.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.4\\microsoft.extensions.configuration.binder.10.0.4.nupkg.sha512",
@@ -32,6 +34,10 @@
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.extensions.options\\10.0.4\\microsoft.extensions.options.10.0.4.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.4\\microsoft.extensions.options.configurationextensions.10.0.4.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.4\\microsoft.extensions.primitives.10.0.4.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.4\\system.diagnostics.eventlog.10.0.4.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\system.serviceprocess.servicecontroller\\10.0.4\\system.serviceprocess.servicecontroller.10.0.4.nupkg.sha512"
   ],

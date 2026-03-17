@@ -1,8 +1,16 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <ProjectReference Include="..\Audit.Agent.Contracts\Audit.Agent.Contracts.csproj" />
     <ProjectReference Include="..\Audit.Agent.Security\Audit.Agent.Security.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="sqlite-schema.sql" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
   <PropertyGroup>

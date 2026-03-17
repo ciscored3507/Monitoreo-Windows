@@ -1,9 +1,12 @@
 using Audit.Backend.Api.Services;
 using Audit.Ingest.V1;
 using Grpc.Core;
+using Microsoft.AspNetCore.Authentication.Certificate;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Audit.Backend.Api.Grpc;
 
+[Authorize(AuthenticationSchemes = CertificateAuthenticationDefaults.AuthenticationScheme)]
 public sealed class IngestServiceImpl(IChunkStore chunkStore, ILogger<IngestServiceImpl> logger)
     : IngestService.IngestServiceBase
 {

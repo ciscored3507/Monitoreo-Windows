@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ul2mA86TxpA=",
+  "dgSpecHash": "PBySSmvJusA=",
   "success": true,
   "projectFilePath": "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\web\\src\\Audit.Backend.Infrastructure\\Audit.Backend.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.data.sqlite\\9.0.9\\microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

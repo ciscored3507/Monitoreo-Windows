@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Audit.Agent.Contracts\Audit.Agent.Contracts.csproj" />
+    <ProjectReference Include="..\..\src\Audit.Agent.Storage\Audit.Agent.Storage.csproj" />
   </ItemGroup>
 
 </Project>

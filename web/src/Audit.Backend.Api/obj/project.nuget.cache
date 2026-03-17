@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iq8zV2Iktu0=",
+  "dgSpecHash": "hfUf6MP4UHA=",
   "success": true,
   "projectFilePath": "C:\\Users\\cisco\\OneDrive\\Documentos\\dev\\EAD-software\\Record\\Monitoreo-Windows\\web\\src\\Audit.Backend.Api\\Audit.Backend.Api.csproj",
   "expectedPackageFiles": [
@@ -13,8 +13,15 @@
     "C:\\Users\\cisco\\.nuget\\packages\\grpc.net.clientfactory\\2.76.0\\grpc.net.clientfactory.2.76.0.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\grpc.net.common\\2.76.0\\grpc.net.common.2.76.0.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\grpc.tools\\2.76.0\\grpc.tools.2.76.0.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\10.0.4\\microsoft.aspnetcore.authentication.certificate.10.0.4.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
-    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.data.sqlite\\9.0.9\\microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\cisco\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
   ],
   "logs": []
 }
